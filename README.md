@@ -4,3 +4,4 @@ Hello! I am Sanjana, a second-year B.Tech Information Science Engineering studen
 
 - Skill: Learning Python, C, C++ and Java.
 - Interest: Software development and problem solving.
+- Goal: Build useful software projects and contribute to open source.
